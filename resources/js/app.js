@@ -24,7 +24,7 @@ const PRODUCTS = [
     {
         id: "es-teh-lemon",
         name: "Es Teh Lemon",
-        price: 7000,
+        price: 6000,
         category: "Es Teh",
         desc: "Perpaduan teh segar dengan rasa lemon yang menyegarkan.",
         image: "/images/es-teh-lemon-2.png",
@@ -33,7 +33,7 @@ const PRODUCTS = [
     {
         id: "es-teh-lychee",
         name: "Es Teh Lychee",
-        price: 8000,
+        price: 7000,
         category: "Es Teh",
         desc: "Teh segar dengan sentuhan rasa lychee yang manis dan fruity.",
         image: "/images/es-teh-lychee-2.png",
@@ -42,7 +42,7 @@ const PRODUCTS = [
     {
         id: "milk-tea",
         name: "Milk Tea",
-        price: 10000,
+        price: 7000,
         category: "Milk Tea",
         desc: "Perpaduan teh dan susu yang creamy dengan rasa lembut.",
         image: "/images/milk-tea-2.png",
